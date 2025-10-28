@@ -1,4 +1,1 @@
-string second
-string third
-string fourth
-string 5
+virus-dell-all
